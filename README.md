@@ -7,5 +7,6 @@ To run the project:
 3. Run `npm start`
 
 
-React Hooks:
+# React Hooks:
+
 Click [here](https://react-redux.js.org/api/hooks) to learn more
