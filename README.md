@@ -1,4 +1,4 @@
-# robofriends
+# robodeck
 Tutorial for React
 To run the project:
 
