@@ -8,4 +8,4 @@ To run the project:
 
 
 React Hooks:
-Click here(https://react-redux.js.org/api/hooks) to learn more
+Click [here](https://react-redux.js.org/api/hooks) to learn more
